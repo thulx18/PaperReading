@@ -63,7 +63,7 @@
 106	2011
 
 ## WWW 2017--2022 top20
-- [ ] Neural Collaborative Filtering. 
+- [x] Neural Collaborative Filtering. 
 3620	2017
 - [ ] Heterogeneous Graph Attention Network.
 X Wang, H Ji, C Shi, B Wang, Y Ye, P Cui, SY Philip
